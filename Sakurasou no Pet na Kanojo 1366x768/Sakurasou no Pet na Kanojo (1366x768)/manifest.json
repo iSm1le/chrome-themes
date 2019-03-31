@@ -1,0 +1,38 @@
+{
+	"manifest_version":2,
+	"name":"Sakurasou no Pet na Kanojo (1366x768)",
+	"version":"1.0",
+	"description":"",
+	"theme":
+		{
+		"images":
+			{
+				"theme_frame":"img\/theme_frame.png",
+				"theme_toolbar":"img\/theme_toolbar.png",
+				"theme_tab_background":"img\/theme_tab_background.png",
+				"theme_ntp_background":"img\/theme_ntp_background.png",
+				"theme_frame_overlay": "img\/theme_frame_overlay.png",
+				"theme_ntp_attribution":"img\/theme_ntp_attribution.png"
+			},
+			"colors":
+				{
+				"frame":[132,132,156],
+				"toolbar":[242,222,202],
+				"tab_text":[255,255,255],
+				"tab_background_text":[200,200,200],
+				"bookmark_text":[71,40,50],
+				"ntp_background":[255,255,255],
+				"ntp_text":[71,40,50],
+				"button_background":[0,0,0,0]
+				},
+			"tints":
+				{
+					"buttons":[0.95,0.9,0.42]
+				},
+			"properties":
+				{
+				"ntp_background_alignment":"top",
+				"ntp_background_repeat":"no-repeat"
+				}
+		}
+}

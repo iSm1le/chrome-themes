@@ -1,0 +1,38 @@
+{
+	"manifest_version":2,
+	"name":"SAO - Asuna (1920x1080)",
+	"version":"1.2.4",
+	"description":"",
+	"theme":
+		{
+		"images":
+			{
+				"theme_frame":"img\/theme_frame.png",
+				"theme_toolbar":"img\/theme_toolbar.png",
+				"theme_tab_background":"img\/theme_tab_background.png",
+				"theme_ntp_background":"img\/theme_ntp_background.jpg",
+				"theme_frame_overlay": "img\/theme_frame_overlay.png",
+				"theme_ntp_attribution":"img\/theme_ntp_attribution.png"
+			},
+			"colors":
+				{
+				"frame":[211,202,192],
+				"toolbar":[211,186,168],
+				"tab_text":[255,255,255],
+				"tab_background_text":[211,211,211],
+				"bookmark_text":[255,255,255],
+				"ntp_background":[255,255,255],
+				"ntp_text":[255,255,255],
+				"button_background":[0,0,0,0]
+				},
+			"tints":
+				{
+					"buttons":[0,0,1]
+				},
+			"properties":
+				{
+				"ntp_background_alignment":"left top",
+				"ntp_background_repeat":"no-repeat"
+				}
+		}
+}
